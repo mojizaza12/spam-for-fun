@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     siteName: "Moji Dev",
     images: [
       {
-        url: "https://spam.bannawat.store/og-image.png",
+        url: "https://spam.bannawat.store/og-image.jpg",
         width: 1200,
         height: 630,
         alt: "Spam Text Generator",
